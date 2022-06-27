@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="GLES_Merge_.iOS">
+      <UniqueIdentifier>{66a3f45c-5b36-4e79-abab-e107a7e99dfd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GLES_Merge_.iOS\Images.xcassets">
+      <UniqueIdentifier>{3ede7b40-5caf-45ca-be81-bf762b6728a4}</UniqueIdentifier>
+      <Extensions>GLES_Merge_.iOS\Images.xcassets\*</Extensions>
+    </Filter>
+    <Filter Include="GLES_Merge_.iOS\Images.xcassets\AppIcon.appiconset">
+      <UniqueIdentifier>{82d15801-af00-4853-9a13-2b5f51210809}</UniqueIdentifier>
+      <Extensions>GLES_Merge_.iOS\Images.xcassets\AppIcon.appiconset\*</Extensions>
+    </Filter>
+    <Filter Include="GLES_Merge_.iOS\Supporting Files">
+      <UniqueIdentifier>{09cba35f-8146-4068-9bda-a8aab7b825c0}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="GLES_Merge_.iOS\AppDelegate.m">
+      <Filter>GLES_Merge_.iOS</Filter>
+    </ClCompile>
+    <ClCompile Include="GLES_Merge_.iOS\GameViewController.m">
+      <Filter>GLES_Merge_.iOS</Filter>
+    </ClCompile>
+    <ClCompile Include="GLES_Merge_.iOS\main.m">
+      <Filter>GLES_Merge_.iOS\Supporting Files</Filter>
+    </ClCompile>
+    <ClInclude Include="GLES_Merge_.iOS\AppDelegate.h">
+      <Filter>GLES_Merge_.iOS</Filter>
+    </ClInclude>
+    <ClInclude Include="GLES_Merge_.iOS\GameViewController.h">
+      <Filter>GLES_Merge_.iOS</Filter>
+    </ClInclude>
+    <Content Include="GLES_Merge_.iOS\Base.lproj\Main.storyboard">
+      <Filter>GLES_Merge_.iOS</Filter>
+    </Content>
+    <Content Include="GLES_Merge_.iOS\Images.xcassets\AppIcon.appiconset\Contents.json">
+      <Filter>GLES_Merge_.iOS\Images.xcassets\AppIcon.appiconset</Filter>
+    </Content>
+    <InfoPlist Include="GLES_Merge_.iOS\Info.plist">
+      <Filter>GLES_Merge_.iOS\Supporting Files</Filter>
+    </InfoPlist>
+  </ItemGroup>
+</Project>
