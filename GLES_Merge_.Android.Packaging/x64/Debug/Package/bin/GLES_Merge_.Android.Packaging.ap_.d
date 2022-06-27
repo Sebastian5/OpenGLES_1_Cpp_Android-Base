@@ -1,0 +1,3 @@
+C:\Users\Sebas\Desktop\GLES_Merge_\GLES_Merge_.Android.Packaging\x64\Debug\Package\bin\GLES_Merge_.Android.Packaging.ap_ \
+ : C:\Users\Sebas\Desktop\GLES_Merge_\GLES_Merge_.Android.Packaging\x64\Debug\Package\res\values\strings.xml \
+C:\Users\Sebas\Desktop\GLES_Merge_\GLES_Merge_.Android.Packaging\x64\Debug\Package\bin\AndroidManifest.xml \

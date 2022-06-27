@@ -1,0 +1,13 @@
+C:\Users\Sebas\Desktop\GLES_Merge_\GLES_Merge_.Android.Packaging\x64\Debug\GLES_Merge_.apk.recipe
+C:\Users\Sebas\Desktop\GLES_Merge_\GLES_Merge_.Android.Packaging\x64\Debug\GLES_Merge_.apk.recipe.merged
+C:\Users\Sebas\Desktop\GLES_Merge_\GLES_Merge_.Android.Packaging\x64\Debug\Package\libs\x86_64\libGLES_Merge_.so
+C:\Users\Sebas\Desktop\GLES_Merge_\GLES_Merge_.Android.Packaging\x64\Debug\Package\libs\x86_64\gdbserver
+C:\Users\Sebas\Desktop\GLES_Merge_\GLES_Merge_.Android.Packaging\x64\Debug\Package\libs\x86_64\libc++_static.a
+C:\Users\Sebas\Desktop\GLES_Merge_\GLES_Merge_.Android.Packaging\x64\Debug\Package\libs\x86_64\libc++abi.a
+C:\Users\Sebas\Desktop\GLES_Merge_\GLES_Merge_.Android.Packaging\x64\Debug\Package\res\values\strings.xml
+C:\Users\Sebas\Desktop\GLES_Merge_\GLES_Merge_.Android.Packaging\x64\Debug\Package\AndroidManifest.xml
+C:\Users\Sebas\Desktop\GLES_Merge_\GLES_Merge_.Android.Packaging\x64\Debug\Package\project.properties
+C:\Users\Sebas\Desktop\GLES_Merge_\GLES_Merge_.Android.Packaging\x64\Debug\Package\build.xml
+C:\Users\Sebas\Desktop\GLES_Merge_\GLES_Merge_.Android.Packaging\x64\Debug\FileStringReplace.incremental
+C:\Users\Sebas\Desktop\GLES_Merge_\GLES_Merge_.Android.Packaging\x64\Debug\GLES_Merge_.apk
+C:\Users\Sebas\Desktop\GLES_Merge_\GLES_Merge_.Android.Packaging\x64\Debug\GLES_Merge_.lastsuccessfuldeploy

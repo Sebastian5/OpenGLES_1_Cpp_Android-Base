@@ -1,0 +1,6 @@
+C:\Users\Sebas\Desktop\GLES_Merge_\GLES_Merge_.Android.Packaging\ARM\Debug\GLES_Merge_.apk.recipe
+C:\Users\Sebas\Desktop\GLES_Merge_\GLES_Merge_.Android.Packaging\ARM\Debug\GLES_Merge_.apk.recipe.merged
+C:\Users\Sebas\Desktop\GLES_Merge_\GLES_Merge_.Android.Packaging\ARM\Debug\Package\libs\armeabi-v7a\libGLES_Merge_.so
+C:\Users\Sebas\Desktop\GLES_Merge_\GLES_Merge_.Android.Packaging\ARM\Debug\FileStringReplace.incremental
+C:\Users\Sebas\Desktop\GLES_Merge_\GLES_Merge_.Android.Packaging\ARM\Debug\GLES_Merge_.apk
+C:\Users\Sebas\Desktop\GLES_Merge_\GLES_Merge_.Android.Packaging\ARM\Debug\GLES_Merge_.lastsuccessfuldeploy

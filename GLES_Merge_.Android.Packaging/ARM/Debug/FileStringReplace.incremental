@@ -1,0 +1,1 @@
+$(AntDependencies)=;$(ApplicationId)=applicationId = "";$(ConfigurationType)=application;$(AarDependencies)=;$(AarDependenciesSettings)=;$(ApplicationName)=GLES_Merge_;$(AndroidAppLibName)=GLES_Merge_;$(AndroidBuildToolsVersion)=25.0.3;$(AndroidAPILevelNumber)=25;$(androidapilevel)=android-25;$(projectname)=GLES_Merge_.Android.Packaging;
