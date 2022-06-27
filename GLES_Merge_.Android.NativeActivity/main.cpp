@@ -8,6 +8,8 @@
 int WIDTH = 1;
 int HEIGHT = 1;
 
+//Desk
+
 int mouseX = 0;
 int mouseY = 0;
 int pmouseX = 0;
