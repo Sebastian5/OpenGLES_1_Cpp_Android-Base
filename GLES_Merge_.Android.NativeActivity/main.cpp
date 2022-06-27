@@ -514,6 +514,7 @@ void Player::update()
 #include <float.h>
 #include <errno.h>
 #include <fenv.h>
+
 void println(std::string text) {
 
 	FILE* file = fopen((base_game_path + "/glesoutput.txt").c_str(), "a+");
@@ -585,4 +586,18 @@ void connect_ip()
 {
 
 }
-
+/*
+AAssetDir* assetDir = AAssetManager_openDir(mgr, "");
+const char* filename = (const char*)NULL;
+while ((filename = AAssetDir_getNextFileName(assetDir)) != NULL) {
+	AAsset* asset = AAssetManager_open(mgr, filename, AASSET_MODE_STREAMING);
+	char buf[BUFSIZ];
+	int nb_read = 0;
+	FILE* out = fopen(filename, "w");
+	while ((nb_read = AAsset_read(asset, buf, BUFSIZ)) > 0)
+		fwrite(buf, nb_read, 1, out);
+	fclose(out);
+	AAsset_close(asset);
+}
+AAssetDir_close(assetDir);
+	*/

@@ -63,12 +63,11 @@ public:
 	void render(float px, float py, float dx, float dy);
 	/*
 	int width, height;
-	void  loadFile(const char* path);
+	void loadFile(const char* path);
 	int* loadPixels();//glGetTexImage
 	void updatePixels(int* pixels); //delte recreate
-	void deletee();//
+	void delete();
 	*/
-	//delteTexture
 };
 
 class Mesh {
